@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://awesome-github-readme-profile.netlify.app/category/creativity/ari-hacks/
+<img src = "https://awesome-github-readme-profile.netlify.app/category/creativity/ari-hacks/" />
