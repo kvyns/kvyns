@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Oh 👋
 
 <!--
 **kvyns/kvyns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://awesome-github-readme-profile.netlify.app/category/creativity/ari-hacks/" />
