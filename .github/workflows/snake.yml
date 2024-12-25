@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *" # runs every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-snake-game:
     runs-on: ubuntu-latest
@@ -24,6 +27,7 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
-          branch: main
-          message: 'Generate Contribution Snake'
           add: 'dist'
+          message: 'Generate Contribution Snake'
+          default_author: github_actions
+          github_token: ${{ secrets.GITHUB_TOKEN }}
