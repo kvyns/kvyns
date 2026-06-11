@@ -10,7 +10,7 @@ Full-stack web development projects, especially those leveraging React and Node.
 🧠 **Looking for Help With:**<br> 
 Diving deeper into algorithm optimization and exploring interdisciplinary applications of materials AI.<br><br>
 💬 **Ask Me About:**<br>
-Full-stack development, research in computational materials, or efficient coding practices. Let me know how I can help, collaborate, or grow together! 😊
+Full-stack web projects, especially AI-powered products and developer tools. Let me know how I can help, collaborate, or grow together! 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyansh-dhakad)
