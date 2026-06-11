@@ -1,10 +1,10 @@
 # Hey there! 👋 I'm Kavyansh
 
 ## 💫 About Me:
-🔭 **Currently Working On:** <br>
-Developing projects with React and Express, tackling real-world challenges along the way. Exploring innovative solutions to computational problems in materials science through cutting-edge research.<br><br>
-🌱 **Currently Learning:** <br>
-Advanced Data Structures and Algorithms (DSA) to refine my problem-solving skills. Integrating computational methods into materials research for smarter solutions.<br><br>
+🔭 **Currently Building:** <br>
+AI-powered web apps with React/Next.js and FastAPI backends<br><br>
+🌱 **Currently Exploring:** <br>
+Node-based UI editors, web performance optimization, LLM integrations<br><br>
 🤝 **Looking to Collaborate On:** <br>
 Full-stack web development projects, especially those leveraging React and Node.js. Research initiatives in computational materials science or AI-driven materials engineering.<br><br>
 🧠 **Looking for Help With:**<br> 
